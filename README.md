@@ -1,4 +1,20 @@
-### Hi there 👋
+## Hello world!
+I am a BCIT Computer Systems Technology CO-OP student in year 1. I am currently working on balancing school work, personal projects, and looking for a co-op position! Feel free to connect with me by email or linkedin :)
+
+## ⚡ What I'm comfortable with
+| Languages  | Frameworks  | Databases |
+|------------|-------------|-----------|
+| Python     | Bootsrap5.0 | Firebase  |
+| Javascript | Node.js     | MongoDB   |
+| HTML       | jQuery      |           |
+| CSS        | AJAX        |           |
+
+## 🌱 What I’m learning
+| Languages  | Frameworks  | Databases |
+|------------|-------------|-----------|
+| Java       | React       | MySQL     |
+| C          |             |           |
+| SQL        |             |           |
 
 <!--
 **pkwlo/pkwlo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
