@@ -1,5 +1,5 @@
 ## Hello world!
-I am a BCIT Computer Systems Technology CO-OP student in year 1. I am currently working on balancing school work, personal projects, and looking for a co-op position! Feel free to connect with me by email or linkedin :)
+I am a BCIT Computer Systems Technology CO-OP student in year 1. I am currently working on balancing school, personal projects, and a co-op job. Feel free to connect with me by email or linkedin :)
 
 ## ⚡ What I'm comfortable with
 | Languages  | Frameworks  | Databases |
