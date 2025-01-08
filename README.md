@@ -1,5 +1,5 @@
 ## Hello world!
-I am a BCIT Computer Systems Technology CO-OP student in year 1. I am currently working on balancing school, personal projects, and a co-op job. Feel free to connect with me by email or linkedin :)
+I am a BCIT Computer Systems Technology student in year 2. I am currently working on balancing school, personal projects, and a part-time job. Feel free to connect with me by email or linkedin. :)
 
 <!--
 **pkwlo/pkwlo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
